@@ -1,4 +1,4 @@
-# Localisation expérimental
+# Localisation expérimentale
 
 Ce dépôt contient des contenus qui doivent être multilingues.
 
