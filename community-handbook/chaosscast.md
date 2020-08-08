@@ -189,10 +189,10 @@ These procedures are for the organizer and coordinator of each episode:
 * **Step 1:** Determine a guest (Anyone)
   * **Action:** Recruit interview guest and decide topic and content of the podcast together
 * **Step 2:** Coordinate Episode (Coordinator)
-    * **Action:** Send invitiation email (content TBD) to guest to find a few potential suitable dates and times (60-90 minutes.)
+    * **Action:** Send invitation email (content TBD) to guest to find a few potential suitable dates and times (60-90 minutes.)
     * **Action:** Notify organizer of guest's date and time possibilities, and confirm one.
-    * **Action:** Prepare the planning document (copy the [Episode Planning Document template](https://docs.google.com/document/d/17qjAafr0aAWXV_HR-WiefHOa881t8X7tEoiZnPBh3ao/edit#heading=h.cmpmu92ylw4d) and start filling in information.)
-   * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) for panelists to RSVP yes or no ([list of email addresses](https://docs.google.com/document/d/1ca9TJY17cj-cBWmJP5qjCX56133unsaOlEUwACc4PMA/edit)) 
+    * **Action:** Prepare the planning document copy the [Episode Planning Document template](https://docs.google.com/document/d/17qjAafr0aAWXV_HR-WiefHOa881t8X7tEoiZnPBh3ao/edit#heading=h.cmpmu92ylw4d) and start filling in information
+   * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) for panelists to RSVP yes or no [list of email addresses](https://docs.google.com/document/d/1ca9TJY17cj-cBWmJP5qjCX56133unsaOlEUwACc4PMA/edit)
       * Prioritize those who said they were interested in the topic
       * If needed, [invite new panelists](https://docs.google.com/document/d/1gGf9n6D5g2Y_YfqVuWOvWvZvNvKmbQr9adruHeQTAu0/edit?usp=sharing)
   * **Action:** Confirm with 1-2 panelists that replied "yes" and notify others who replied yes that the panel is already complete.
